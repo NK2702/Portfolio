@@ -48,15 +48,18 @@ const Hero = () => {
             className='my-2 max-w-xl py-6 font-light tracking-tighter'>{HERO_CONTENT}</motion.p>
             </div>
         </div>
-        <div className='w-full lg:w-1/2 lg:p-8'>
-            <div className='flex justify-center'>
-                <motion.img 
-                initial={{x:100, opacity:0}}
-                animate={{x:0, opacity:1}}
-                transition={{duration:1 , delay:1.2}}
-                src={profilePic} alt="Naveenkumar" />
-            </div>
-        </div>
+         <div className='w-full lg:w-1/2 lg:p-8'>
+  <div className='flex justify-center'>
+    <motion.img
+      initial={{ x: 100, opacity: 0 }}
+      animate={{ x: 0, opacity: 1 }}
+      transition={{ duration: 1, delay: 1.2 }}
+      src={profilePic}
+      alt="Naveenkumar"
+      style={{ width: 250, height: 250, }} 
+    />
+  </div>
+</div>
         </div>
       
     </div>
