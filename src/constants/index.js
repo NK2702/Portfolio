@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `Enthusiastic and Collaborative Full-Stack Developer seeking a dynamic team environment to contribute fresh perspectives and a strong work ethic. Eager to learn and grow alongside experienced professionals.`;
 
-export const ABOUT_TEXT = `Enthusiastic Full-Stack Developer with a strong foundation in React, Node.js (Express), MongoDB, Tailwind CSS, Bootstrap, and core web development (HTML & CSS). Eager to leverage this diverse skillset to contribute to any project and continuously learn within a collaborative team environment. `;
+export const ABOUT_TEXT = `Passionate Full-Stack Developer with a strong foundation in React, Node.js (Express), MongoDB, Tailwind CSS, Bootstrap, and core web development (HTML & CSS). Eager to leverage this diverse skillset to contribute to any project and continuously learn within a collaborative team environment. `;
 
 
 
